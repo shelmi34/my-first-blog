@@ -1,8 +1,7 @@
 # my-first-blog
-Djangogirls_pure
-Django girls チュートリアルの見本レポジトリ https://tutorial.djangogirls.org/ja/
+Django girls チュートリアルの見本レポジトリ (https://tutorial.djangogirls.org/ja/)
 
-Usage
+## Usage
 仮想環境
 作成
 
