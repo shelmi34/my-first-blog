@@ -2,7 +2,7 @@
 Django girls チュートリアルの見本レポジトリ (https://tutorial.djangogirls.org/ja/)
 
 ## Usage
-**仮想環境**
+###仮想環境
 作成
 
 `djangogirls_pure$ python3 -m venv .venv`
@@ -12,7 +12,7 @@ Django girls チュートリアルの見本レポジトリ (https://tutorial.dja
 終了. 
 
 `(.venv)djangogirls_pure$ deactivate`
-**サーバの起動** 
+####サーバの起動
 ヘルパーを利用した初期設定
 
 `$ pa_autoconfigure_django.py --python=3.6 https://github.com/technicakidz/djangogirls_pure.git --nuke --branch=master`
